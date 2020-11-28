@@ -1,10 +1,10 @@
 
 <?php include_once 'header.php' ?>
 
-<body> class="bg-info" </body>
-    <div class="container-fluid col-md-10 offset-md-1"> </div>
-    <div class="row"></div>
-    <div class="card mt-3 px-2 py-2"> </div>
+    <body class="bg-info" >
+        <div class="container-fluid col-md-10 offset-md-1"> </div>
+        <div class="row"></div>
+        <div class="card mt-3 px-2 py-2"> </div>
 
 <h1 title="Stationery Application"></h1>
    <p> “Welcome to this fictional stationery

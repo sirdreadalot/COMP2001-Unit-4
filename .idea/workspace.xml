@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06cfa6f9-76fa-44ea-a134-772bc3b9f76a" name="Default Changelist" comment="Initial Commit v2">
+    <list default="true" id="06cfa6f9-76fa-44ea-a134-772bc3b9f76a" name="Default Changelist" comment="Fixed pages v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/agreement.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/agreement.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
@@ -70,7 +70,7 @@
       <workItem from="1606578175424" duration="1003000" />
       <workItem from="1606579197937" duration="19000" />
       <workItem from="1606579231170" duration="243000" />
-      <workItem from="1606580933423" duration="1737000" />
+      <workItem from="1606580933423" duration="2134000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1606578399827</created>
@@ -86,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606579123905</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed pages">
+      <created>1606583986971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606583986971</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixed pages v2">
+      <created>1606584151035</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606584151035</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,17 +123,19 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Initial Commit v2" />
     <MESSAGE value="Finished initial setup of files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished initial setup of files" />
+    <MESSAGE value="Fixed pages" />
+    <MESSAGE value="Fixed pages v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed pages v2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="163" key="#PHP" timestamp="1606578633323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1606578633323" />
-    <state x="828" y="296" key="FileChooserDialogImpl" timestamp="1606579470581">
+    <state x="828" y="296" key="FileChooserDialogImpl" timestamp="1606583971219">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="828" y="296" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606579470581" />
+    <state x="828" y="296" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606583971219" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606579207362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
