@@ -10,7 +10,7 @@
    <p> “Welcome to this fictional stationery
     application page created for ISAD251 example. To continue please accept our terms and conditions ”.
    </p>
-<form action="agreement.php">
+<form action="agreement.php" method="get">
     <div>
         <input type="radio" id="true" name="buttons" value="agree">
         <label for="true">Agree</label><br>
