@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06cfa6f9-76fa-44ea-a134-772bc3b9f76a" name="Default Changelist" comment="Fixed agreement page to have no spelling issues" />
+    <list default="true" id="06cfa6f9-76fa-44ea-a134-772bc3b9f76a" name="Default Changelist" comment="Fixed all spelling" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +66,7 @@
       <workItem from="1606578175424" duration="1003000" />
       <workItem from="1606579197937" duration="19000" />
       <workItem from="1606579231170" duration="243000" />
-      <workItem from="1606580933423" duration="2956000" />
+      <workItem from="1606580933423" duration="3108000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1606578399827</created>
@@ -131,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606584763914</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fixed all spelling">
+      <created>1606585289548</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606585289548</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +167,8 @@
     <MESSAGE value="Fixed pages, added more to the form" />
     <MESSAGE value="Fixed pages, added type to button" />
     <MESSAGE value="Fixed agreement page to have no spelling issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed agreement page to have no spelling issues" />
+    <MESSAGE value="Fixed all spelling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed all spelling" />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="163" key="#PHP" timestamp="1606578633323">
