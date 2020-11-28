@@ -6,18 +6,17 @@
     <div> class=’row’</div>
     <div> class=’card mt-3 px-2 py-2’ </div>
 
-<h1 title="Stationery Application">
-   <paragraph> “Welcome to this fictional stationery
+<h1 title="Stationery Application"></h1>
+   <p> “Welcome to this fictional stationery
     application page created for ISAD251 example. To continue please accept our terms and conditions ”.
-   </paragraph>
-</h1>
+   </p>
 <form action="agreement.php">
     <div>
         <input type="radio" id="true" name="agreeBtn" value="agree">
         <label for="true">Agree</label><br>
 
         <input type="radio" id="false" name="disagreeBtn" value="disagree">
-        <label for="false">Agree</label><br>
+        <label for="false">Disagree</label><br>
     </div>
 </form>
 
