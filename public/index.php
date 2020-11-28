@@ -1,7 +1,7 @@
 
 <?php include_once 'header.php' ?>
 
-<body> class=’bg-info’ </body>
+<body> class="bg-info" </body>
     <div class="container-fluid col-md-10 offset-md-1"> </div>
     <div class="row"></div>
     <div class="card mt-3 px-2 py-2"> </div>
@@ -12,10 +12,10 @@
    </p>
 <form action="agreement.php">
     <div>
-        <input type="radio" id="true" name="agreeBtn" value="agree">
+        <input type="radio" id="true" name="buttons" value="agree">
         <label for="true">Agree</label><br>
 
-        <input type="radio" id="false" name="disagreeBtn" value="disagree">
+        <input type="radio" id="false" name="buttons" value="disagree">
         <label for="false">Disagree</label><br>
     </div>
 </form>
