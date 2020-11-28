@@ -41,6 +41,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -64,7 +70,7 @@
       <workItem from="1606578175424" duration="1003000" />
       <workItem from="1606579197937" duration="19000" />
       <workItem from="1606579231170" duration="243000" />
-      <workItem from="1606580933423" duration="636000" />
+      <workItem from="1606580933423" duration="1737000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1606578399827</created>
@@ -102,7 +108,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Initial Commit v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit v2" />
+    <MESSAGE value="Finished initial setup of files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished initial setup of files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="163" key="#PHP" timestamp="1606578633323">
