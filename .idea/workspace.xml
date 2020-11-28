@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06cfa6f9-76fa-44ea-a134-772bc3b9f76a" name="Default Changelist" comment="Fixed pages, added type to button" />
+    <list default="true" id="06cfa6f9-76fa-44ea-a134-772bc3b9f76a" name="Default Changelist" comment="Fixed agreement page to have no spelling issues" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +66,7 @@
       <workItem from="1606578175424" duration="1003000" />
       <workItem from="1606579197937" duration="19000" />
       <workItem from="1606579231170" duration="243000" />
-      <workItem from="1606580933423" duration="2450000" />
+      <workItem from="1606580933423" duration="2956000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1606578399827</created>
@@ -117,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606584629554</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fixed agreement page to have no spelling issues">
+      <created>1606584730689</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606584730689</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed agreement page to have no spelling issues">
+      <created>1606584763914</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606584763914</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +159,8 @@
     <MESSAGE value="Fixed pages, changed body and quote marks" />
     <MESSAGE value="Fixed pages, added more to the form" />
     <MESSAGE value="Fixed pages, added type to button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed pages, added type to button" />
+    <MESSAGE value="Fixed agreement page to have no spelling issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed agreement page to have no spelling issues" />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="163" key="#PHP" timestamp="1606578633323">
