@@ -6,7 +6,7 @@
         <div class="card mt-3 px-2 py-2"> </div>
 <?php
     $agreement = $_GET["agreement"];
-        echo 'Welcome. You have selected' . ' agreement ' . 'for the agreement';
+        echo 'Welcome. You have selected' . ' agree ' . 'for the agreement';
     ?>
 
 <?php include_once 'footer.php' ?>
