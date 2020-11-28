@@ -17,6 +17,8 @@
 
         <input type="radio" id="false" name="buttons" value="disagree">
         <label for="false">Disagree</label><br>
+
+        <input type="submit">
     </div>
 </form>
 
